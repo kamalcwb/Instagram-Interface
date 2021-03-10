@@ -9,5 +9,5 @@ while (n > 0) { //complete o codigo
         let kg = kg / 2
         let dias = dias++
     }
-    console.log(dias` dias`); //complete o código para a saída
+    console.log(dias` dias`); //compl ete o código para a saída
 }
